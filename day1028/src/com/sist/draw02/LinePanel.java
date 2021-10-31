@@ -1,10 +1,9 @@
 package com.sist.draw02;
 
 import java.awt.Graphics;
-
 import javax.swing.JPanel;
 
-public class LinePanel2 extends JPanel {
+public class LinePanel extends JPanel {
 
 	//맴버변수로 설정
 	int x1 = 10;

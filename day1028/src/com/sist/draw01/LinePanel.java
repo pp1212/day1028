@@ -1,7 +1,6 @@
 package com.sist.draw01;
 
 import java.awt.Graphics;
-
 import javax.swing.JPanel;
 
 public class LinePanel extends JPanel {

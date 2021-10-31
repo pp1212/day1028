@@ -2,13 +2,13 @@ package com.sist.draw02;
 
 import javax.swing.JFrame;
 
-public class MyFrame2 extends JFrame {
+public class MyFrame extends JFrame {
 
-	private LinePanel2 lp2;
+	private LinePanel lp;
 	
-	public MyFrame2() {
-		lp2 = new LinePanel2();
-		add(lp2);
+	public MyFrame() {
+		lp = new LinePanel();
+		add(lp);
 		setSize(600,400);
 		setVisible(true);
 		setTitle("선그리기");

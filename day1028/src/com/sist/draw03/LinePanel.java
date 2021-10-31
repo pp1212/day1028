@@ -3,7 +3,6 @@ package com.sist.draw03;
 import java.awt.Graphics;
 import java.awt.event.MouseEvent;
 import java.awt.event.MouseListener;
-
 import javax.swing.JPanel;
 
 public class LinePanel extends JPanel implements MouseListener {
